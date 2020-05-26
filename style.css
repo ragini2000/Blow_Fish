@@ -3,12 +3,12 @@
 background: #DE6262;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to bottom, #FFB88C, #DE6262);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to bottom, #FFB88C, #DE6262); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-background-image:url("./images/Background.jpg");
+background-image:url("Images/Background.jpg");
 float:left;
 width:100%;
 padding : 50px 0;
 }
-.banner-sec{background:url("./images/Background.jpg")  no-repeat left bottom; background-size:cover; min-height:500px; border-radius: 0 10px 10px 0; padding:0;}
+.banner-sec{background:url("Images/Background.jpg")  no-repeat left bottom; background-size:cover; min-height:500px; border-radius: 0 10px 10px 0; padding:0;}
 .container{background:#298af1; border-radius: 10px; box-shadow:15px 20px 0px rgba(0,0,0,0.1);}
 .carousel-inner{border-radius:0 10px 10px 0;}
 .carousel-caption{text-align:left; left:5%;}
